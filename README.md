@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection — Financial Machine Learning Project
+# Credit Card Fraud Detection. Financial Machine Learning Project
 
 ## Overview
 
