@@ -1,0 +1,16 @@
+# datasets (not allowed to share)
+data/raw/
+data/processed/
+
+# python
+__pycache__/
+*.pyc
+
+# virtual env
+venv/
+
+# jupyter
+.ipynb_checkpoints/
+
+# mac
+.DS_Store
