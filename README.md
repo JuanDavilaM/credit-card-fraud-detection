@@ -29,21 +29,18 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 Place the dataset in: data/raw/creditcard.csv
 
 
-## Project Structure
+## 📂 Project Structure
 
-credit-card-fraud-detection
-
-notebooks/
-│
-├── 01_data_exploration.ipynb
-├── 02_feature_engineering.ipynb
-├── 03_model_training.ipynb
-├── 04_model_explainability.ipynb
-└── 05_business_impact.ipynb
-
-models/
-└── xgboost_fraud_model.pkl
-
+```text
+credit-card-fraud-detection/
+├── notebooks/
+│   ├── 01_data_exploration.ipynb
+│   ├── 02_feature_engineering.ipynb
+│   ├── 03_model_training.ipynb
+│   ├── 04_model_explainability.ipynb
+│   └── 05_business_impact.ipynb
+└── models/
+    └── xgboost_fraud_model.pkl
 requirements.txt
 README.md
 
